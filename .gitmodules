@@ -1,0 +1,9 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/pamugk/go-social-nyetwork-api.git
+[submodule "client-desktop"]
+	path = client-desktop
+	url = https://github.com/pamugk/go-social-nyetwork-client-desktop.git
+[submodule "client-web"]
+	path = client-web
+	url = https://github.com/pamugk/go-social-nyetwork-client-web.git
